@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kstweather/static/css/main.34f1a3a1.chunk.css",
+    "main.js": "/kstweather/static/js/main.989d1e68.chunk.js",
+    "main.js.map": "/kstweather/static/js/main.989d1e68.chunk.js.map",
+    "runtime~main.js": "/kstweather/static/js/runtime~main.81e21d2a.js",
+    "runtime~main.js.map": "/kstweather/static/js/runtime~main.81e21d2a.js.map",
+    "static/js/2.39d5be67.chunk.js": "/kstweather/static/js/2.39d5be67.chunk.js",
+    "static/js/2.39d5be67.chunk.js.map": "/kstweather/static/js/2.39d5be67.chunk.js.map",
+    "index.html": "/kstweather/index.html",
+    "precache-manifest.d15e97deb158a012c8e9ca0a74b530b4.js": "/kstweather/precache-manifest.d15e97deb158a012c8e9ca0a74b530b4.js",
+    "service-worker.js": "/kstweather/service-worker.js",
+    "static/css/main.34f1a3a1.chunk.css.map": "/kstweather/static/css/main.34f1a3a1.chunk.css.map",
+    "static/media/App.css": "/kstweather/static/media/date0.c0e4e2a2.png",
+    "static/media/date1.jpg": "/kstweather/static/media/date1.27adde59.jpg",
+    "static/media/date2.jpg": "/kstweather/static/media/date2.314785cf.jpg",
+    "static/media/date3.jpg": "/kstweather/static/media/date3.16bb7621.jpg",
+    "static/media/date4.jpg": "/kstweather/static/media/date4.59de8771.jpg",
+    "static/media/date5.jpg": "/kstweather/static/media/date5.907c18e5.jpg",
+    "static/media/date6.jpg": "/kstweather/static/media/date6.ec119d9f.jpg",
+    "static/media/date7.jpg": "/kstweather/static/media/date7.094433a9.jpg"
+  }
+}
